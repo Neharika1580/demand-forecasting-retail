@@ -1,0 +1,1 @@
+{"best_model": "Prophet", "prophet_rmse": 16940.963517875432, "prophet_mape": 0.0293600783558782, "lstm_rmse": 28466.782599105904, "lstm_mape": 0.044071289209345534, "test_size": 24}
